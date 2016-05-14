@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Garment Mandi</string>
+
+    <string name="title_activity_forgotpassword">Forgot Password</string>
+
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_c_register">c Register Activity</string>
+    <string name="title_activity_m_register">m Register Activity</string>
+    <string name="country_spinner_title">Select Country</string>
+    <string name="city_spinner_title">Select City</string>
+</resources>
