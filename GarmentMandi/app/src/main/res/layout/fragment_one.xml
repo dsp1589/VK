@@ -1,0 +1,1605 @@
+
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:background="@drawable/designer_jeans"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp"
+               >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Designer Jeans"
+                android:textColor="#969696"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Designer Jeans New"
+                android:textColor="#FDAD00"
+                android:textSize="16sp"
+                />
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Rs.860"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                        android:text="View More"
+
+                    android:layout_alignParentRight="true"
+                    android:textColor="#FDAD00"
+
+                    />
+            </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:background="@drawable/suit_designer"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text="Designer Jeans"
+                    android:textColor="#969696"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Designer Jeans New"
+                    android:textColor="#FDAD00"
+                    android:textSize="16sp"
+                    />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rs.860"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="View More"
+
+                        android:layout_alignParentRight="true"
+                        android:textColor="#FDAD00"
+
+                        />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:background="@drawable/designer_jeans"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text="Designer Jeans"
+                    android:textColor="#969696"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Designer Jeans New"
+                    android:textColor="#FDAD00"
+                    android:textSize="16sp"
+                    />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rs.860"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="View More"
+
+                        android:layout_alignParentRight="true"
+                        android:textColor="#FDAD00"
+
+                        />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:background="@drawable/designer_jeans"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text="Designer Jeans"
+                    android:textColor="#969696"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Designer Jeans New"
+                    android:textColor="#FDAD00"
+                    android:textSize="16sp"
+                    />
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rs.860"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="View More"
+
+                        android:layout_alignParentRight="true"
+                        android:textColor="#FDAD00"
+
+                        />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
+
+</HorizontalScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#969696"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:scrollbars="none">
+
+           <TextView
+            android:layout_width="wrap_content"
+            android:text="Boys"
+            android:textColor="#FDAD00"
+            android:gravity="center_vertical|left"
+            android:layout_weight="1"
+            android:textAlignment="inherit"
+            android:textSize="@dimen/font_size"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="View More"
+            android:textColor="#FDAD00"
+            android:gravity="center_vertical|right"
+            android:layout_weight="1"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/font_size"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+
+                        >
+
+                        <ImageView
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:background="@drawable/check_shirt"
+                            />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="20sp"
+                                android:text="Designer Jeans"
+                                android:textColor="#969696"
+                                />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Designer Jeans New"
+                                android:textColor="#FDAD00"
+                                android:textSize="16sp"
+                                />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Rs.860"
+                                    android:textColor="#000000"
+                                    android:textSize="14sp"
+                                    />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="2%"
+
+                                    android:layout_centerHorizontal="true"
+                                    android:textColor="#FDAD00"
+
+                                    />
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+
+
+                                    android:layout_alignParentRight="true"
+                                   android:background="@drawable/shopping_cart"
+
+                                    />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+
+                        >
+
+                        <ImageView
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:background="@drawable/party_wearkids"
+                            />
+m
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="20sp"
+                                android:text="Designer Jeans"
+                                android:textColor="#969696"
+                                />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Designer Jeans New"
+                                android:textColor="#FDAD00"
+                                android:textSize="16sp"
+                                />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Rs.860"
+                                    android:textColor="#000000"
+                                    android:textSize="14sp"
+                                    />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="2%"
+
+                                    android:layout_centerHorizontal="true"
+                                    android:textColor="#FDAD00"
+
+                                    />
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+
+
+                                    android:layout_alignParentRight="true"
+                                    android:background="@drawable/shopping_cart"
+
+                                    />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+
+                        >
+
+                        <ImageView
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:background="@drawable/designer_jeans"
+                            />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="20sp"
+                                android:text="Designer Jeans"
+                                android:textColor="#969696"
+                                />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Designer Jeans New"
+                                android:textColor="#FDAD00"
+                                android:textSize="16sp"
+                                />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Rs.860"
+                                    android:textColor="#000000"
+                                    android:textSize="14sp"
+                                    />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="2%"
+
+                                    android:layout_centerHorizontal="true"
+                                    android:textColor="#FDAD00"
+
+                                    />
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+
+
+                                    android:layout_alignParentRight="true"
+                                    android:background="@drawable/shopping_cart"
+
+                                    />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+
+                        >
+
+                        <ImageView
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:background="@drawable/designer_jeans"
+                            />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:padding="5dp"
+                            >
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="20sp"
+                                android:text="Designer Jeans"
+                                android:textColor="#969696"
+                                />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Designer Jeans New"
+                                android:textColor="#FDAD00"
+                                android:textSize="16sp"
+                                />
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Rs.860"
+                                    android:textColor="#000000"
+                                    android:textSize="14sp"
+                                    />
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="2%"
+
+                                    android:layout_centerHorizontal="true"
+                                    android:textColor="#FDAD00"
+
+                                    />
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+
+
+                                    android:layout_alignParentRight="true"
+                                    android:background="@drawable/shopping_cart"
+
+                                    />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <!--
+
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="info.androidhive.materialtabs.fragments.TwoFragment">
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout1"
+                android:layout_height="wrap_content"
+                android:gravity="center|top" >
+
+                <ImageView
+                    android:id="@+id/imageView5"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/designer_jeans"
+                    android:layout_marginLeft="0dp" />
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="175dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/suit_designer" />
+
+            </LinearLayout>
+
+
+
+            <TableLayout
+                android:id="@+id/tablelayout"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_below="@+id/layout1"
+                android:paddingRight="2dip" >
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Designer Jeans"
+                        android:textColor="#969696"
+                        android:gravity="center_vertical|left"
+                        android:paddingLeft="5dp"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Suit Designer"
+                        android:textColor="#969696"
+                        android:paddingLeft="10dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Designer Jeans New"
+                        android:textColor="#FDAD00"
+                        android:paddingLeft="5dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Suit Designer"
+                        android:paddingLeft="10dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.860"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:paddingLeft="5dp"
+                        android:textAlignment="inherit"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="View More"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:paddingLeft="10dp"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.4500"
+                        android:textColor="#000000"
+                        android:paddingLeft="10dp"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="View More"
+                        android:paddingLeft="10dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+
+
+            </TableLayout>
+
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout2"
+                android:layout_height="25dp"
+                android:layout_below="@+id/tablelayout"
+                 >
+
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout3"
+                android:layout_height="50dp"
+                android:background="#969696"
+                android:layout_below="@+id/layout2"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="Boys"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|left"
+                    android:layout_weight="1"
+                    android:textAlignment="inherit"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="View More"
+                    android:textColor="#FDAD00"
+                android:gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout4"
+
+                android:layout_height="5dp"
+                android:layout_below="@+id/layout3"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="2dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout9"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/layout3">
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/check_shirt"
+                    android:layout_marginLeft="0dp" />
+
+                <ImageView
+                    android:id="@+id/imageView13"
+                    android:layout_width="175dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/party_wearkids" />
+
+            </LinearLayout>
+
+
+            <TableLayout
+                android:id="@+id/tablelayout2"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_below="@+id/layout9"
+                android:paddingRight="2dip" >
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Check Shirt"
+                        android:textColor="#969696"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:paddingLeft="5dp"
+                        android:textAlignment="inherit"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Part Wear kids"
+                        android:textColor="#969696"
+                        android:paddingLeft="50dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Jonsan"
+                        android:paddingLeft="5dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Toxy"
+                        android:paddingLeft="50dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.360"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="5dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:paddingLeft="15dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.896"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="12dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:paddingLeft="20dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+                </TableRow>
+
+
+            </TableLayout>
+
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout10"
+                android:layout_height="25dp"
+                android:layout_below="@+id/tablelayout2"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout11"
+                android:layout_height="50dp"
+                android:background="#969696"
+                android:layout_below="@+id/layout10"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="Girls"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|left"
+                    android:layout_weight="1"
+                    android:textAlignment="inherit"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="View More"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout12"
+
+                android:layout_height="5dp"
+                android:layout_below="@+id/layout11"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView82"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="2dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout13"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/layout12">
+
+                <ImageView
+                    android:id="@+id/imageView16"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/party_wear"
+                    android:layout_marginLeft="0dp" />
+
+                <ImageView
+                    android:id="@+id/imageView17"
+                    android:layout_width="175dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/karina_kurti" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout14"
+                android:layout_height="25dp"
+                android:layout_below="@+id/layout13"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView121"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <TableLayout
+                android:id="@+id/tablelayout3"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_below="@+id/layout14"
+                android:paddingRight="2dip" >
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Party Wear"
+                        android:textColor="#969696"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:paddingLeft="5dp"
+                        android:textAlignment="inherit"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Karina Kurti"
+                        android:textColor="#969696"
+                        android:paddingLeft="35dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Double Story"
+                        android:paddingLeft="5dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="london Girls"
+                        android:paddingLeft="35dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.467"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="5dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:paddingLeft="15dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.1100"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="12dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:paddingLeft="40dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+                </TableRow>
+
+
+            </TableLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout15"
+                android:layout_height="50dp"
+                android:background="#969696"
+                android:layout_below="@+id/tablelayout3"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="Men"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|left"
+                    android:layout_weight="1"
+                    android:textAlignment="inherit"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="View More"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout16"
+
+                android:layout_height="5dp"
+                android:layout_below="@+id/layout15"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView85"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="2dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout17"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/layout16">
+
+                <ImageView
+                    android:id="@+id/imageView26"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/formal_shirt"
+                    android:layout_marginLeft="0dp" />
+
+                <ImageView
+                    android:id="@+id/imageView27"
+                    android:layout_width="175dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/jeans_sparley" />
+
+            </LinearLayout>
+
+
+            <TableLayout
+                android:id="@+id/tablelayout4"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_below="@+id/layout17"
+                android:paddingRight="2dip" >
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Formal Shirt"
+                        android:textColor="#969696"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:paddingLeft="5dp"
+                        android:textAlignment="inherit"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Jeans"
+                        android:textColor="#969696"
+                        android:paddingLeft="0dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Nike"
+                        android:paddingLeft="1dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Sparly"
+                        android:paddingLeft="1dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.1000"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="5dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:paddingLeft="15dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.865"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="12dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:paddingLeft="20dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+                </TableRow>
+
+
+            </TableLayout>
+
+
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout18"
+                android:layout_height="25dp"
+                android:layout_below="@+id/tablelayout4"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView122"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="10dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout19"
+                android:layout_height="50dp"
+                android:background="#969696"
+                android:layout_below="@+id/layout18"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="Women"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|left"
+                    android:layout_weight="1"
+                    android:textAlignment="inherit"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="View More"
+                    android:textColor="#FDAD00"
+                    android:gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:layout_alignParentRight="true"
+                    android:textSize="@dimen/font_size"
+                    android:layout_height="match_parent" />
+
+            </LinearLayout>
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout20"
+
+                android:layout_height="5dp"
+                android:layout_below="@+id/layout19"
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageView815"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:baselineAlignBottom="true"
+                    android:layout_marginTop="2dp"
+                    android:src="@color/thick" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:id="@+id/layout21"
+                android:layout_height="200dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/layout20">
+
+                <ImageView
+                    android:id="@+id/imageView36"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/lehanga"
+                    android:layout_marginLeft="0dp" />
+
+                <ImageView
+                    android:id="@+id/imageView37"
+                    android:layout_width="175dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/top_london" />
+
+            </LinearLayout>
+
+
+            <TableLayout
+                android:id="@+id/tablelayout5"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_below="@+id/layout21"
+                android:paddingRight="2dip" >
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Lenhga"
+                        android:textColor="#969696"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:paddingLeft="5dp"
+                        android:textAlignment="inherit"
+                        android:textSize="20dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Top"
+                        android:textColor="#969696"
+                        android:paddingLeft="50dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="20dp"
+                        android:layout_height="wrap_content" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Nike"
+                        android:paddingLeft="5dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="London Girls"
+                        android:paddingLeft="50dp"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="16dp"
+                        android:layout_height="match_parent" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.1200"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="5dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:paddingLeft="15dp"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="Rs.465"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textAlignment="inherit"
+                        android:paddingLeft="12dp"
+                        android:textSize="14dp"
+                        android:layout_height="match_parent" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:text="2%"
+                        android:textColor="#FDAD00"
+                        android:gravity="center_vertical|left"
+                        android:layout_weight="1"
+                        android:textSize="14dp"
+                        android:paddingLeft="20dp"
+                        android:layout_height="match_parent" />
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_centerInParent="true"
+                        android:src="@drawable/shopping_cart" />
+                </TableRow>
+
+
+            </TableLayout>
+
+
+
+
+        </RelativeLayout>
+
+        -->
+
+    </LinearLayout>
+
+</ScrollView>
